@@ -64,19 +64,19 @@ Training score is a significant predictor, but with weak explanatory power (R² 
 
 # ✅ Recommendations
 
-![](images (1).jpeg)
+![](images.jpeg)
 
-Strengthen Recognition Programs → More frequent awards tied to KPI performance.
+- Strengthen Recognition Programs → More frequent awards tied to KPI performance.
 
-Enhance Training Programs → Focus on early-career and bachelor’s-level employees.
+- Enhance Training Programs → Focus on early-career and bachelor’s-level employees.
 
-Refine Recruitment Strategy → Invest more in high-performing channels.
+- Refine Recruitment Strategy → Invest more in high-performing channels.
 
-Promote Gender Diversity → Attract and retain more female employees.
+- Promote Gender Diversity → Attract and retain more female employees.
 
-Continuous Monitoring → Use dashboards & regular statistical reviews to track progress.
+- Continuous Monitoring → Use dashboards & regular statistical reviews to track progress.
 
-📌 Conclusion
+# 📌 Conclusion
 
 This analysis highlights that awards, recruitment channels, and training quality are the most significant drivers of KPI performance, while length of service has limited impact.
 The insights recommend HR to focus on recognition, training, and recruitment strategies, while also addressing gender imbalance to build a more inclusive and high-performing workforce.
