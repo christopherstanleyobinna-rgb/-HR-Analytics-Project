@@ -5,7 +5,6 @@
 
 This project analyzes an HR dataset of 17,415 employees to understand workforce demographics and the factors influencing KPI achievement.
 The analysis was performed in Microsoft Excel, using Pivot Tables, Charts, and built-in Statistical tools (Chi-Square, Regression).
-
 The goal is to generate insights that support data-driven HR decisions on recruitment, training, and performance management.
 
 # 🛠️ Process
@@ -77,6 +76,7 @@ Training score is a significant predictor, but with weak explanatory power (R² 
 - Continuous Monitoring → Use dashboards & regular statistical reviews to track progress.
 
 # 📌 Conclusion
+![](https://github.com/christopherstanleyobinna-rgb/-HR-Analytics-Project/blob/main/images%20(1).jpeg)
 
 This analysis highlights that awards, recruitment channels, and training quality are the most significant drivers of KPI performance, while length of service has limited impact.
 The insights recommend HR to focus on recognition, training, and recruitment strategies, while also addressing gender imbalance to build a more inclusive and high-performing workforce.
